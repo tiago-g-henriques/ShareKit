@@ -319,7 +319,7 @@ BOOL SHKinit;
 
 + (NSArray *)favoriteSharersForType:(SHKShareType)type
 {	
-    return [NSArray arrayWithObjects:@"SHKTwitter",@"SHKFacebook",@"SHKMail", nil];
+    return [NSArray arrayWithObjects:@"SHKMail",@"SHKTwitter",@"SHKFacebook",@"SHKSafari", nil];
 }
 
 + (void)pushOnFavorites:(NSString *)className forType:(SHKShareType)type
