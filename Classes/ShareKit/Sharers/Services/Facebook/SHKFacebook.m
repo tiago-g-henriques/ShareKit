@@ -350,6 +350,13 @@ static NSString *const kSHKFacebookUserInfo =@"kSHKFacebookUserInfo";
     [self release]; //see [self promptAuthorization]
 }
 
+
+// unimplemented non-optional methods:
+- (void)fbDidExtendToken:(NSString*)accessToken
+               expiresAt:(NSDate*)expiresAt {}
+- (void)fbDidLogout {}
+- (void)fbSessionInvalidated {}
+
 #pragma mark FBRequestDelegate methods
 
 - (void)requestLoading:(FBRequest *)request
