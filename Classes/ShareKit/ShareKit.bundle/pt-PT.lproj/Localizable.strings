@@ -1,0 +1,108 @@
+"Email" = "E-mail";
+"Username" = "Utilizador";
+"Password" = "Senha";
+"Follow %@" = "Seguir %@";
+"Continue" = "Continuar";
+"Share" = "Partilhar";
+"More..." = "Masi...";
+"Cancel" = "Cancelar";
+"Slug" = "Identificador";
+"Private" = "Privado";
+"Public" = "Público";
+"Caption" = "Legenda";
+"Title" = "Título";
+"Tags" = "Etiquetas";
+"Close" = "Fechar";
+"Notes" = "Notas";
+"Note" = "Nota";
+"Shared" = "Partilhado";
+"Edit" = "Editar";
+"Actions" = "Ações";
+"Services" = "Serviços";
+"Send to %@" = "Enviar para %@";
+"Copy" = "Copiar";
+"Copied!" = "Copiado!";
+"Saving to %@" = "A publicar no %@";
+"Saved!" = "Publicado!";
+"Offline" = "Sem rede";
+"Error" = "Erro";
+"Login" = "Autenticar";
+"Logging In..." = "A autenticar...";
+"Login Error" = "Erro de autenticação";
+"Connecting..." = "A conectar...";
+
+"Shortening URL..." = "A encurtar URL...";
+"Shorten URL Error" = "Erro a encurtar URL";
+"We could not shorten the URL." = "Não conseguimos encurtar o URL.";
+
+"Create a free account at %@" = "Crie uma conta gratuita em %@";
+"Create an account at %@" = "Crie uma conta em %@";
+
+"Send to Twitter" = "Enviar para o Twitter";
+
+"Message is too long" = "Mensagem demasiado longa";
+"Twitter posts can only be 140 characters in length." = "As mensagens do Twitter só podem ter até 140 caracteres de comprimento.";
+"Message is empty" = "Mensagem vazia";
+"You must enter a message in order to post." = "Tem de introduzir uma mensagem para publicar.";
+
+"Enter your message:" = "Introduza a sua mensagem:";
+
+"Invalid email or password." = "Email ou senha inválido.";
+"The service encountered an error. Please try again later." = "O serviço encontrou um erro. Por favor tente mais tarde.";
+"There was an error sending your post to Tumblr." = "Ocorreu um erro ao tentar publicar no Tumblr.";
+
+"There was an error saving to Pinboard" = "Ocorreu um erro ao publicar no Pinboard";
+
+"Sorry, Instapaper did not accept your credentials. Please try again." = "Lamento mas o Instapaper não aceitou as suas credenciais. Por favor tente novamente.";
+"Sorry, Instapaper encountered an error. Please try again." = "Lamento mas ocorreu um erro no Instapaper. Por favor tente novamente.";
+"There was a problem saving to Instapaper." = "Ocorreu um problema ao publicar no Instapaper.";
+
+"Incorrect username and password" = "Utilizador e senha incorretos";
+"There was an error logging into Google Reader" = "Ocorreu um erro de autenticação no Google Reader";
+"There was a problem saving your note." = "Ocorreu um problema ao gravar a sua nota.";
+
+"Open in Safari" = "Abrir no Safari";
+"Attached: %@" = "Anexo: %@";
+
+"You must be online to login to %@" = "Tem de estar online para se autenticar %@";
+
+"Auto Share" = "Partilha Automática";
+"Enable auto share to skip this step in the future." = "Ative a partilha automática para omitir este passo no futuro.";
+
+"You must be online in order to share with %@" = "Tem de estar online para partilhar com %@";
+
+"Could not authenticate you. Please relogin." = "Não conseguimos autenticá-lo. Por favor volte a autenticar-se.";
+"There was a problem requesting authorization from %@" = "Ocorreu um problema ao pedir autorização em %@";
+"Request Error" = "Erro com o pedido";
+"There was an error while sharing" = "Ocorreu um erro ao partilhar";
+
+"Authorize Error" = "Erro de autorização";
+"There was an error while authorizing" = "Ocorreu um erro de autorização";
+
+"Authenticating..." = "A autenticar...";
+"There was a problem requesting access from %@" = "Ocorreu um problema ao pedir acesso a %@";
+
+"Access Error" = "Erro de acesso";
+
+"Logout" = "Terminar sessão";
+"Sharing a Link" = "Partilhar um Link";
+"Sharing an Image" = "Partilhar uma Imagem";
+"Sharing Text" = "Partilhar Texto";
+"Sharing a File" = "Partilhar um Ficheiro";
+"Are you sure you want to logout of all share services?" = "De certeza que que fechar a sua sessão em todos os serviços de partilha?";
+"Examples" = "Exemplos";
+"EDMA Error" = "Erro de EDMA";
+"EDMA Version is too old." = "A versão do EDMA é demasiado antiga.";
+"Your username and password did not match" = "O utilizador e a senha não batem certo";
+"Untitled" = "Sem título";
+"There was a problem sharing with Evernote" = "Ocorreu um problema ao partilhar no Evernote";
+"Get" = "Obter";
+"Description" = "Descrição";
+"Tag (space) Tag" = "Tag (espaço) Tag";
+"Is Public" = "É Público";
+"Is Friend" = "É Amigo";
+"Is Family" = "É Família";
+"Logged Out!" = "Sessão terminada!";
+"Sent from %@" = "Enviado por %@";
+"Save to Photo Album" = "Guardar no Álbum de Fotos";
+"Tag,Tag" = "Etiqueta,Etiqueta";
